@@ -7,3 +7,4 @@ This project is licensed under the **Restricted Non-Commercial Project License (
 - Commercial use and redistribution are prohibited.  
 - Modifications must be documented and include this license.  
 - See the `LICENSE.md` and `NOTICE.md` files for full details.  
+- **Future relicensing for commercial purposes may be applied with consent of all contributors**
