@@ -16,3 +16,4 @@
 - Sofiane BÉJAOUI
 - Maël MILLOT
 - William FERREIRA
+- Sacha LAUDE
