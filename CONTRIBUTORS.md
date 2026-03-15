@@ -13,3 +13,6 @@
 - Lorenzo MAKAROF  
 - Teva RESTOUX  
 - Maryse ATRY
+- Sofiane BÉJAOUI
+- Maël MILLOT
+- William FERREIRA
