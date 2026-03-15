@@ -1,5 +1,5 @@
 # Restricted Non-Commercial Project License (RNCL)  
-**Version 1.0 – March 2026**
+**Version 1.1 – March 2026**
 
 ## Summary
 
@@ -45,6 +45,10 @@ Any authorized copy of the licensed material must include:
 Any modifications must clearly:  
 - State that changes were made  
 - Identify the modified files
+
+**Future Commercial Licensing**  
+The project may be relicensed for commercial purposes in the future, **with the explicit written consent of all contributors**.  
+This clause allows maintainers to change the license while respecting the rights of contributors.
 
 ---
 
