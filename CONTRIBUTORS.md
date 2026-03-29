@@ -1,0 +1,19 @@
+# Project Contributors
+
+- Maxime LUHAT  
+- Antoine COSSARDEAUX  
+- Quentin LOPES  
+- Mathieu PANZA  
+- Lucas MARCUCCI  
+- Charly EURY  
+- Julia AYITE  
+- Liam HANSON  
+- Téo GONÇALVES  
+- Adrien MOREAU  
+- Lorenzo MAKAROF  
+- Teva RESTOUX  
+- Maryse ATRY
+- Sofiane BÉJAOUI
+- Maël MILLOT
+- William FERREIRA
+- Sacha LAUDE
